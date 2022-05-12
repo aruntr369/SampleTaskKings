@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="greyforcard">#B24BD8</color>
+    <color name="greenRep">#159500</color>
+    <color name="redRep">#910000</color>
+    <color name="blueRep">#FFFFFF</color>
+
+    <color name="ToDoGreen">#97F18C</color>
+    <color name="ToDoRed">#D6706D</color>
+    <color name="ToDoYellow">#F8C774</color>
+    <color name="ToDoBlue">#619BDF</color>
+
+</resources>
